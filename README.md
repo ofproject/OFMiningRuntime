@@ -1,7 +1,7 @@
 # OFMiningRuntime
 ## OF挖矿程序：
 
-- 网盘下载地址：https://pan.baidu.com/s/1-gtP5ce7eAInvB3EoeIiNQ
+- 网盘下载地址：https://pan.baidu.com/s/10I8RLmS-gnqVq5L3hnxTng
 
 ### 使用操作:
 
